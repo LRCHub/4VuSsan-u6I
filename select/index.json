@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "あいのちから",
+  "base_artist": "SEVENTEEN",
+  "createdAt": "2025-12-07T11:53:59.418990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あいのちから",
+      "artist": "Seventeen",
+      "has_synced": true,
+      "path": "select/01_あいのちから_Seventeen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あいのちから",
+      "artist": "Seventeen",
+      "has_synced": true,
+      "path": "select/02_あいのちから_Seventeen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あいのちから (Power of Love / Ainochikara)",
+      "artist": "SEVENTEEN (세븐틴)",
+      "has_synced": false,
+      "path": "select/03_あいのちから_(Power_of_Love___Ainochikara)_SEVENTEEN_(세븐틴).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいのちから",
+      "artist": "SEVENTEEN",
+      "has_synced": false,
+      "path": "select/pl_01_あいのちから_SEVENTEEN.txt"
+    }
+  ]
+}
